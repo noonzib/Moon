@@ -10,7 +10,8 @@ tag:
 - webhacking
 comments: true
 ---
->query: select id from prob_gremlin where id='' and pw=''
+> query: select id from prob_gremlin where id='' and pw=''
+
 ~~~ php
 <?php
   include "./config.php";
@@ -27,6 +28,7 @@ comments: true
 ~~~
 
 # Solve
+
 딱히 필터링이 없으므로 바로 sql injection 구문을 넣으면 된다. 
 
 ?id=' or 1=1-- 
