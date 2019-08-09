@@ -26,11 +26,11 @@ comments: true
 ?>
 ~~~
 
-#Solve
+# Solve
 딱히 필터링이 없으므로 바로 sql injection 구문을 넣으면 된다. 
 
 ?id=' or 1=1-- 
 
 실행되는 구문 -> select id from prob_gremlin where id='' or 1=1-- ' and pw=''
 
-##GREMLIN Clear!
+## GREMLIN Clear!
