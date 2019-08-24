@@ -30,7 +30,7 @@ comments: true
 
 # Solve
 
-* 공백이 필터링 -> 우회 -> "||" 사용
+* 공백이 필터링 -> 우회 -> "\|\|" 사용
 * 연산자 우선 순위 -> and > or 
 
 ### ?pw=noonzib'||id='admin
