@@ -30,7 +30,7 @@ comments: true
 
 # Solve
 
-* or,and가 필터링 -> "or" : "||", "and" : "&&"로 우회
+* or,and가 필터링 -> "or" : "\|\|", "and" : "&&"로 우회
 * 연산자 우선 순위 -> and > or 
 
 ### ?pw=noonzib'||id='admin
