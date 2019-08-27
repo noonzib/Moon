@@ -34,4 +34,4 @@ comments: true
 
 ### ?id=adadminmin
 
-## TROLL Clear!
+## VAMPIRE Clear!
