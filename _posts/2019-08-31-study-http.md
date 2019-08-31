@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "http 정리"
-date:   2019-08-10
+date:   2019-08-31
 excerpt: "웹 어플리케이션 기술"
 tag:
 - web application
