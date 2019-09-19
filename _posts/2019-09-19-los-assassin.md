@@ -53,4 +53,4 @@ while (isFind == True):
 print ("[-] Finish")
 ~~~
 
-## GIANT Clear!
+## ASSASSIN Clear!
