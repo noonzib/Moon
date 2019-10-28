@@ -34,4 +34,4 @@ comments: true
 
 ### ?id=\&pw=%20or%201%23
 
-## ASSASSIN Clear!
+## SUCCUBUS Clear!
